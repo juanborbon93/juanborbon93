@@ -8,7 +8,7 @@
   - [Environmental Dataset Explorer for asses chemical exposure](https://github.com/juanborbon93/enviromental_data_explorer)
   - [DIY IOT sensor database and dashboard](https://github.com/juanborbon93/diy_iot)
   - [Crypto market data logger using InluxDB](https://github.com/juanborbon93/binance_logger)
-  - [Fast Pony Crud, an python library to convert pony database definitions in to a restful api with few lines of code](https://github.com/juanborbon93/fast_pony_crud)
+  - [Fast Pony Crud, a python library that converts pony database definitions in to a restful api with few lines of code](https://github.com/juanborbon93/fast_pony_crud)
   - [SMS contact tracing app using the Twilio API](https://github.com/juanborbon93/contact_tracing)
   - [Object detection and trajectory tracking using the Intel Realsense Lidar camera](https://github.com/juanborbon93/realsense_experiments)
 - 📫 How to reach me at juan.borbon@protonmail.com
